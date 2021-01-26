@@ -1,6 +1,6 @@
 # JD2021-01-14.
 
-### Подготовка:
+### Подготовка:123
 
 <p><b>Посмотрите видео: <a href="https://youtu.be/mIs-X63CH78" target="_blank">Tutorial:QuickStart Idea 2017</a></b>
 <p><b>Для IDEA 2020 и выше есть обновление: <a href="https://youtu.be/0Q8oADdp90Q" target="_blank">Tutorial:QuickStart 2020</a></b>
